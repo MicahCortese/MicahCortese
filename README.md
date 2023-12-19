@@ -11,3 +11,7 @@ I'm a senior at The University of North Georgia and pursuing my Bachelor's degre
 * Java, C#, HTML, CSS, JavaScript, SQL
 * Unreal Engine 4, Unity Game Engine
 * MS Access
+
+#
+
+Some projects are not listed here and are here instead <a href="https://zerogravitygaming.itch.io/">
