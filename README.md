@@ -14,4 +14,4 @@ I'm a senior at The University of North Georgia and pursuing my Bachelor's degre
 
 #
 
-Some projects are not listed here and are here instead <a href="https://zerogravitygaming.itch.io/">
+Some projects are not listed here on Github but are <a href="https://zerogravitygaming.itch.io/">here</a> instead.
