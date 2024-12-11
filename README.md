@@ -8,9 +8,7 @@ I graduated from the University of North Georgia with a bachelor's degree in Com
 
 ### Languages and Tools
 
-* Java, C#, HTML, CSS, JavaScript, SQL
-* Unreal Engine 4, Unity Game Engine
-* MS Access
+* Java, HTML, CSS, JavaScript, Git
 
 #
 
