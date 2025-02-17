@@ -8,7 +8,7 @@ I graduated from the University of North Georgia with a bachelor's degree in Com
 
 ### Languages and Tools
 
-* Java, HTML, CSS, Vanilla JS, Git
+* Java, HTML, CSS, JavaScript, Git
 
 #
 
